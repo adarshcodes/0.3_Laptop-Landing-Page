@@ -182,7 +182,7 @@ nav {
 
 }
 
-@media screen and (max-width:1024px) {
+@media screen and (max-width:600px) {
   .presentation{
     flex-direction: column;
   }
@@ -205,7 +205,7 @@ nav {
 }
 
 .laptop-select {
-  bottom: 0;
+  bottom: 5%;
   right: 35%;
   width: 30%;
 }
